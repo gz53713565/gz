@@ -1,4 +1,4 @@
- 9-20央视,#genre#
+githup 9-20央视,#genre#
 01,http://go.bkpcp.top/mg/cctv1 #8-16 加入咪咕
 01,http://j.s.bkpcp.top/jj/cctv1
 01,http://183.222.242.31:8088/hls/1/index.m3u8
